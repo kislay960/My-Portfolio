@@ -1,0 +1,23 @@
+.card-title{
+    color: rgb(7, 0, 0);
+    font-size: 2em; 
+    font-weight: 700;
+    text-shadow: -1px -1px 0 rgb(255, 253, 253), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
+    text-align: center;
+}
+
+.home{
+    background: linear-gradient(
+        rgba(241, 60, 135, 0.1),
+        rgba(0, 70, 161, 0.6));
+    }
+
+.blocktext{
+    font-size: 3em;
+    font-weight: 550;
+    text-align: center;
+    text-shadow: -1px -1px 0 rgb(235, 11, 11), 1px -1px 0 rgb(7, 26, 194), -1px 1px 0 rgb(50, 12, 190), 1px 1px 0 rgb(51, 8, 206);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-optical-sizing: 10px;
+}
