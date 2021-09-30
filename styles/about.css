@@ -1,0 +1,32 @@
+body{
+    background-color: #c0e0f5;
+}
+
+.home{
+    height: 100vh;
+    background: linear-gradient(
+        rgb(130, 153, 253),
+        rgba(154, 182, 219, 0.1)),
+        url("../images/daniel-josef-AMssSjUaTY4-unsplash.jpg");
+    /* background-size: contain; */
+    background-size: 70% 120%;
+}
+
+.card{
+    height: 100vh;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.1),
+        rgba(216, 73, 38, 0.9));
+}
+
+.card-title{
+    color: rgb(7, 0, 0);
+    font-size: 3em; 
+    font-weight: 700;
+    text-shadow: -1px -1px 0 rgb(255, 253, 253), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
+}
+
+.card-text{
+    color:whitesmoke;
+    text-align: justify;
+}
