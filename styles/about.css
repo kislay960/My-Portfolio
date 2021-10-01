@@ -7,9 +7,10 @@ body{
     background: linear-gradient(
         rgb(130, 153, 253),
         rgba(154, 182, 219, 0.1)),
-        url("../images/daniel-josef-AMssSjUaTY4-unsplash.jpg");
+        url("../images/project.jpg")
+    ;
     /* background-size: contain; */
-    background-size: 70% 120%;
+    background-size: cover;
 }
 
 .card{
